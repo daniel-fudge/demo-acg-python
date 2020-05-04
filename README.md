@@ -1,2 +1,8 @@
 # demo-acg-python
 Just a demo repo for training.
+
+## Running
+
+This project requires Python 3 and the requests package.
+
+`python3 find_meteors.py`
